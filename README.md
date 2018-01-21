@@ -8,9 +8,9 @@ https://antonioleiva.com/mvp-android/ </br>
 https://plus.google.com/communities/114285790907815804707 </br>
 
 additional sources (rus): </br>
-MVP:
+MVP: </br>
 https://habrahabr.ru/post/263465/ </br>
-https://habrahabr.ru/post/215605/
+https://habrahabr.ru/post/215605/ </br>
 
 MVP + rxJava: </br>
 https://habrahabr.ru/post/252903/
