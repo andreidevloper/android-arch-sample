@@ -4,7 +4,7 @@ rus translation: https://habrahabr.ru/post/278769/
 
 additional sources (eng): </br>
 MVP: </br>
-antonioleiva.com/mvp-android/ </br>
+https://antonioleiva.com/mvp-android/ </br>
 https://plus.google.com/communities/114285790907815804707 </br>
 
 additional sources (rus): </br>
