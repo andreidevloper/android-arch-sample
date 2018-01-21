@@ -2,12 +2,12 @@ Sample code illustrating principles described at [http://engineering.remind.com/
 
 rus translation: https://habrahabr.ru/post/278769/
 
-additional sources (eng): </br>
+<b> Additional sources (eng): </b> </br>
 MVP: </br>
 https://antonioleiva.com/mvp-android/ </br>
 https://plus.google.com/communities/114285790907815804707 </br>
 
-additional sources (rus): </br>
+<b> Additional sources (rus): </b> </br>
 MVP: </br>
 https://habrahabr.ru/post/263465/ </br>
 https://habrahabr.ru/post/215605/ </br>
